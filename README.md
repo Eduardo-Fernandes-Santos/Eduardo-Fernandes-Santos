@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo Fernandes
 
-<!--
-**Eduardo-Fernandes-Santos/Eduardo-Fernandes-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação — em formação no CEUB (Brasília-DF).  
+💡 Apaixonado por tecnologia, dados e por construir soluções que façam diferença.  
+🚀 Foco na carreira de Dados, mesclando análise, desenvolvimento e visualização.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Interesse  
+- Ciência de Dados & Análise de Dados  
+- Engenharia de Dados  
+- Desenvolvimento de Software  
+- Visualização & Business Intelligence  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+
+**Linguagens:**  
+🐍 Python &nbsp;|&nbsp; 💾 SQL &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 💻 C / C++  
+
+**Front-end:**  
+🌐 HTML &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; ⚡ JavaScript  
+
+**Mobile / Cross-platform:**  
+📱 Android Studio & React Native  
+
+**Ferramentas e BI:**  
+📊 Power BI &nbsp;|&nbsp; Excel Avançado &nbsp;|&nbsp; Git & GitHub  
+
+---
+
+## 💬 Sobre mim  
+
+Sou curioso, analítico e dedicado a evoluir constantemente.  
+Acredito que a tecnologia é o caminho para transformar realidades — e que dados são a base dessa transformação.  
+
+---
+
+📫 **Conecte-se comigo:**  
+[LinkedIn](https://www.linkedin.com/in/eduardo-fernandes-7a681a262/)
