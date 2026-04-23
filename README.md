@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eduardo%20Fernandes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20in%20Progress%20%7C%20Engenheiro%20de%20Dados%20em%20Formação&descAlignY=58&descSize=16&descColor=a8d8ea"/>
 
 <!-- BADGES SOCIAIS -->
-<a href="https://www.linkedin.com/in/eduardo-fernandes-7a681a262/" target="_blank">
+<a href="https://www.linkedin.com/in/eduardo-fernandes-dados/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:eduardofernandesdsnt@gmail.com" target="_blank">
@@ -156,7 +156,7 @@ I'm looking for an opportunity where I can:
 
 | <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> |
 |:---:|:---:|:---:|
-| [eduardofernandesdsnt@gmail.com](mailto:eduardofernandesdsnt@gmail.com) | [eduardo-fernandes-7a681a262](https://www.linkedin.com/in/eduardo-fernandes-7a681a262/) | [@duardo_fernandes](https://instagram.com/duardo_fernandes) |
+| [eduardofernandesdsnt@gmail.com](mailto:eduardofernandesdsnt@gmail.com) | [eduardo-fernandes-dados](https://www.linkedin.com/in/eduardo-fernandes-dados/) | [@duardo_fernandes](https://instagram.com/duardo_fernandes) |
 
 </div>
 
