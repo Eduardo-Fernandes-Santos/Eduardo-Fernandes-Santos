@@ -13,13 +13,13 @@
 <a href="https://instagram.com/duardo_fernandes" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://github.com/Eduardo-Fernandes-Santos" target="_blank">
+<a href="https://github.com/EduardoFernandes7" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Eduardo-Fernandes-Santos&color=2c5364&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=EduardoFernandes7&color=2c5364&style=flat-square&label=Profile+Views)
 
 </div>
 
